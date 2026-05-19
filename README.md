@@ -12,7 +12,7 @@ To expand my skills beyond my daily work, I actively maintain a dedicated homela
 * **Networking:** Physical firewall integration and strict network segmentation
 * **Data Integrity:** Automated backup solutions
 
-**Want to see more of my Homelab?** Check out my dedicated [Homelab Repository](https://github.com/liviourch/Homelab) to see my full infrastructure-as-code, Docker Compose files, and setup scripts!
+**Want to see more of my Homelab?** Check out my dedicated [Homelab Repository](https://github.com/liviourch/homelab) to see my full infrastructure-as-code, Docker Compose files, and setup scripts!
 
 ### Tech Stack & Skills
 * **Scripting & Automation:** Bash | Python | Open-Source Scripting
