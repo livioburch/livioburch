@@ -4,13 +4,8 @@ I am a passionate **Informatiker EFZ specializing in Plattformentwicklung** from
 
 ---
 
-### My Homelab Setup
+### My Homelab
 To expand my skills beyond my daily work, I actively maintain a dedicated homelab environment. This project allows me to test, break, and optimize infrastructure.
-
-* **Hypervisor:** Proxmox VE
-* **Containerization:** Docker & Docker Compose
-* **Networking:** Physical firewall integration and strict network segmentation
-* **Data Integrity:** Automated backup solutions
 
 **Want to see more of my Homelab?** Check out my dedicated [Homelab Repository](https://github.com/livioburch/homelab) to see my full infrastructure-as-code, Docker Compose files, and setup scripts!
 
